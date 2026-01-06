@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <h1>👋 Hi, I'm Khushi Garg</h1>
 <p><strong>Full-Stack Developer | Competitive Programmer | ML Enthusiast</strong></p>
 <p>3rd Year B.Tech CSE @ IIIT Pune</p>
@@ -68,4 +68,8 @@ Collection of solved DSA problems and competitive programming challenges. Active
 - **LinkedIn:** [linkedin.com/in/khushi-garg](https://linkedin.com/in/khushi-garg)
 - **LeetCode:** [leetcode.com/khushi-garg](https://leetcode.com/khushi-garg)
 
-Always open to collaboration, internship opportunities, and technical discussions! 🚀
+Always open to collaboration, internship opportunities, and technical discussions! 🚀 -->
+👋 Hi, I’m Khushi Garg  
+Full-stack engineer working with React, TypeScript & Node.js.  
+I build real products, solve hard DSA problems, and explore applied ML.  
+Currently preparing for top-tier engineering roles & Summer 2026 internships.
